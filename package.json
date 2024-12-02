@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "story-background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
